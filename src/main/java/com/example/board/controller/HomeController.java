@@ -14,5 +14,11 @@ public class HomeController {
 	public String a() {
 		return "";
 	}
+	
+	public String b() {
+		return "";
+	}
+	
+	
 
 }
